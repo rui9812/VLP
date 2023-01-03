@@ -1,2 +1,2 @@
 # VLP
-A Vertical Learning Paradigm for Knowledge Graph Completion
+To Copy Rather Than Memorize: A Vertical Learning Paradigm for Knowledge Graph Completion
